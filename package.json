@@ -1,0 +1,15 @@
+{
+  "name": "csdchain",
+  "version": "1.0.0",
+  "description": "app for blockchaining CSD txns!",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "berserker",
+  "license": "ISC"
+}
